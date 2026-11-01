@@ -28,7 +28,7 @@ export function Footer() {
                 <div className="text-xs uppercase tracking-[0.2em] text-stone mb-4">Address</div>
                 <div className="font-serif text-2xl leading-relaxed">
                   Grünerløkka<br/>
-                  Oslo, Norway
+                  India
                 </div>
               </div>
               <div>
